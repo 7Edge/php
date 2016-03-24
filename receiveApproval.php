@@ -41,7 +41,7 @@
 		if($trueOrFalse=='true'){
 			return 1;
 		}elseif($trueOrFalse=='false'){
-			return 0;
+			return -1;
 		}
 	}
 	
